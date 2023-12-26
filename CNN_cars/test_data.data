@@ -1,0 +1,12 @@
+vhigh,high,2,2,big,med,unacc
+med,vhigh,3,2,small,high,unacc
+low,low,2,2,med,low,unacc
+vhigh,low,5more,4,big,med,acc
+low,low,2,4,med,med,acc
+low,low,2,4,small,med,acc
+low,med,3,4,big,med,good
+low,low,2,4,med,high,good
+low,low,3,more,big,med,good
+med,med,2,4,big,high,vgood
+med,med,4,4,big,high,vgood
+low,low,5more,more,med,high,vgood
